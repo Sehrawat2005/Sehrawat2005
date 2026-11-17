@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Sehrawat2005
-- 👀 I’m interested in Python coding 
-- 🌱 I’m currently learning Advance Python language
+- 👋 Hi, I’m Paras Sehrawat
 - 📫 Reach me through email- parassehrawat8@gmail.com
   
 <!---
